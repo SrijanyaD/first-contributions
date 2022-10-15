@@ -42,6 +42,7 @@
 - [William-David](https://github.com/William-David)
 - [amitc9405] (https://github.com/amitc9405)
 - [jayesh] (https://github.com/jayesh101)
+- [Srijanya Durganala(htpps://github.com/Srijanya.D)
 - [Aniruddha Bajpai](https://github.com/Aniruddha-Bajpai)
   [shallieThegod](https://github.com/shallieThegod)
 - [Bhaskar Karnatak](https://github.com/BhaskarKarnatak)
